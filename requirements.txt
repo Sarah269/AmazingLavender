@@ -3,3 +3,4 @@ pandas
 streamlit
 numpy 
 pydataset
+imbalanced-learn
