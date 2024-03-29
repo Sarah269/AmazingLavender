@@ -5,8 +5,10 @@
 # Load Libraries
 import streamlit as st
 import pandas as pd
+import scikit_learn
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
+
 
 # import dataset from pydataset
 from pydataset import data
