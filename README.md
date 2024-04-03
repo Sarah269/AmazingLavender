@@ -3,8 +3,8 @@
 This is a web application for predicting respiratory illness
 
 ## Project Overview
-This project creates a web classification app based on the results of the Respiratory Illness Machine Learning Classification project.
-[
+- This project creates a web classification app based on the results of the Respiratory Illness Machine Learning Classification project.
+- [Respiratory Illness Classification](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
 
 ## Data Source
 Python pydataset Respiratory
