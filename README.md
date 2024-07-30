@@ -12,7 +12,7 @@ This is a web application for predicting respiratory illness.
 Python pydataset Respiratory
 
 ## Tools
-- Ananconda
+- Anaconda
 - Python
   - Pydataset
   - Scikit-learn
