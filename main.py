@@ -47,7 +47,7 @@ X_res,y_res = ros.fit_resample(X,y)
 
 # Write Title for Streamlit App
 st.write("""
-# Simple Prediction App 
+# Respiratory Illness Prediction App 
 
 This app predicts Respiratory Illness 
 """)
