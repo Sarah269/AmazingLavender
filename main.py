@@ -51,9 +51,9 @@ st.write("""
 
 This app predicts whether someone may be affected by Respiratory Illness 
 
-Data Source: pydataset
-Dataset: Respiratory
-Classification Model: DecisionTree 
+* **Data Source**: pydataset
+* **Dataset**: Respiratory
+* **Classification Model**: DecisionTree 
 
 """)
 # Write Streamlit Sidebar Title
