@@ -49,7 +49,12 @@ X_res,y_res = ros.fit_resample(X,y)
 st.write("""
 # Respiratory Illness Prediction App 
 
-This app predicts Respiratory Illness 
+This app predicts whether someone may be affected by Respiratory Illness 
+
+Data Source: pydataset
+Dataset: Respiratory
+Classification Model: DecisionTree 
+
 """)
 # Write Streamlit Sidebar Title
 st.sidebar.header('User Input Parameters')
